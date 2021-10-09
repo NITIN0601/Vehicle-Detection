@@ -3,7 +3,7 @@ import urllib.request
 import os
 import werkzeug
 
-from flask import Flask, flash, request, redirect, url_for, render_template
+from flask import Flask, flash, request, redirect, url_for, render_template 
 
 
 app = Flask(_name_)
